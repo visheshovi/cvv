@@ -1,0 +1,94 @@
+.onee{
+    
+    
+   
+    border : solid;
+    
+    border: 10px;
+    border-color: black;
+    padding: 20px;
+    background-color: rgb(193, 226, 239);
+   position: sticky;
+    
+}
+/*.twoo{
+    background-color: blue;
+    height: 100px;
+    width: 60px;
+    border: solid;
+    border: 20px;
+   margin-left: 190 px;
+   position: absolute;
+  
+  
+    
+}
+.threee{
+    background-color: brown;
+    height: 100px;
+    width: 60px;
+    border: solid;
+    border: 10px;
+    position: absolute;
+    left: 69px;
+    top: 345px;
+}*/
+body{
+    text-align: center;
+}
+   
+h1{
+    width: 20% ;
+    margin: 0 auto 0 auto; 
+    font-family: 'Ms Madi', cursive;
+
+}
+    .bottomc{
+        position: absolute;
+        left: 200px;
+    }
+   .topc{
+       position: absolute;
+       right: 150px;
+   } 
+
+
+.icon{
+    height: 100px;
+   
+   
+    margin: 10px auto 0 auto; 
+    border-radius: 100%;
+   
+
+}
+.about{
+    text-decoration: solid;
+    font-size: medium;
+}
+.skill{
+    height: 150px;
+    border-radius: 100%;
+}
+.skill:hover{
+    color: aqua;
+    border-radius: 0%;
+}
+.name{
+    font-size: 70px;
+}
+h1{
+    color: rgb(238, 104, 104);
+    
+}
+h2{
+    color: rgb(81, 215, 148);
+    font-weight: normal;
+}
+p{
+    color: blueviolet;
+}
+hr{
+    width: 30%;
+    color: blue;
+}
